@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XMLViewToNative.iml" filepath="$PROJECT_DIR$/XMLViewToNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations/annotations.iml" filepath="$PROJECT_DIR$/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baselib/baselib.iml" filepath="$PROJECT_DIR$/baselib/baselib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processort/processort.iml" filepath="$PROJECT_DIR$/processort/processort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewparse/viewparse.iml" filepath="$PROJECT_DIR$/viewparse/viewparse.iml" />
+    </modules>
+  </component>
+</project>
