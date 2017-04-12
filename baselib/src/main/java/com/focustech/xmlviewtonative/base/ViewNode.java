@@ -7,6 +7,7 @@ import java.util.List;
 
 
 /**
+ * 视图节点信息
  * Created by zhangzheng on 2017/4/10.
  */
 
