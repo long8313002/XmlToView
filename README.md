@@ -9,7 +9,7 @@
 目前支持：
 
 View：
-1、android:layout_width
+1、android:layout_width \r\n
 2、android:layout_height
 3、android:layout_gravity
 4、android:layout_marginLeft
